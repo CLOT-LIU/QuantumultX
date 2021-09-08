@@ -1,5 +1,5 @@
 # QuantumultX
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLOT-LIU)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLOT-LIU&show_icons=true&theme=dark)
 > 纯自用，无规则，无维护，无更新
 
 仅以下项目可能会更新维护：    
